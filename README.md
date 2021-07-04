@@ -1,5 +1,11 @@
 # Hi there, I'm Rafael Hiray 👋
 
+The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
+
+<p align='center'>
+    <img src='hubot.jpg'<
+</p>
+
 # Rafael Hiray
 
 I started studying Machine Learning in 2021 and since then I have been constantly evolving to become a Data Scientist. I have a degree in Business Administration and Actuarial Science and I am currently an actuary with experience in the area of supplementary health at Functional Heath.
